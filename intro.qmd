@@ -4,7 +4,7 @@
 
 This guide is aimed at anyone looking to develop participatory teaching/training in food systems thinking to improve dietary micronutrients, using the MAPS tool as part of the learning activity.
 
-We provide examples used in university teaching, or professional training, during the MAPS project. These are intended as examples which we recommend are adapted to suit local learning needs in any setting where the MAPS tool is relevant. We provide examples from undergraduate, postgraduate and professional level training provided in the MAPS project. This is intended to help guide use of MAPS in similar settings elsewhere.
+We provide examples used in university teaching, or professional training, during the MAPS project. We recommend these are adapted to suit local learning needs in any setting where the MAPS tool is relevant. We provide examples from undergraduate, postgraduate and professional level training provided in the MAPS project. This is intended to help guide use of MAPS in similar settings elsewhere.
 
 We also summarise our training resources for the R language, in which our “offline” modelling development has taken place.
 

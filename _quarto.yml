@@ -7,14 +7,14 @@ book:
   author: "MAPS team"
   #date-format: "dd/MM/YYYY"
   #date-format: "long"
-  date: "20/11/2024"
+  date: "11/20/2024"  #use USA format!
   #original-date: "20/11/2024"
   #site-url: https://learning.micronutrient.support/
   status: "under construction"
   version: "MAPS tool: 1.17.0"
-  #original-date: "original guide release xxxx 2024"
+  original-date: "original guide release xxxx 2024"
   sidebar: 
-    logo: images/MAPS_sticker_purple.png  
+    logo: images/MAPS_sticker_green.png  
     search: true
   
   chapters:
