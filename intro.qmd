@@ -8,7 +8,7 @@ We provide examples used in university undergraduate and postgraduate teaching, 
 
 We also summarise our training resources for the R language, in which our “offline” modelling development has taken place, and which underpins modelling in the MAPS tool itself.
 
-The MAPS tool has been developed to meet the previously unmet needs of users for an “easy to use” system that does not require extensive training; we see this as an advantage in an educational setting as well, because it should maximise the time in which learners at all stages can focus on their understanding and interpretation of the data presented rather than learning how to use the tool.
+The MAPS tool has been developed to meet the previously unmet needs of users for an “easy to use” system that does not require extensive training; we see this as an advantage in an educational setting as well, because it should maximise the time in which learners at all stages can focus on their understanding and interpretation of the data presented, rather than learning how to use the tool.
 
 ## Accessing the MAPS tool
 
