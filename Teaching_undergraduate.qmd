@@ -1,12 +1,12 @@
 # Using the MAPS tool in undergraduate teaching
 
-The MAPS tool provides an opportunity to allow undergraduate students to develop their understanding of nutritious food systems, using example micronutrients. The example provided here has been used since 2022 in the School of Biosciences at the University of Nottingham. It is designed for a course which includes first year undergraduates drawn from across agriculture, agricultural economics, nutrition and dietetics degree schemes. The module lasts for a full academic year each year, with the assessment component developed in the second half of the year alongside continuing academic lectures.
+The MAPS tool provides an opportunity to allow undergraduate students to develop their understanding of nutritious food systems, through exploring case studies. The example provided here has been used since 2022 in the School of Biosciences at the University of Nottingham. It is designed for a m first year undergraduate module, comprised of students drawn from across agriculture, agricultural economics, nutrition and dietetics degree schemes. The module lasts for a full academic year each year, with the assessment component developed in the second half of the year alongside continuing academic lectures.
 
-We recommend adapting the approach described here to suit the learning subject focus and educational stage of the cohort for whom the training will apply.
+We recommend adapting the approach described here to suit the learning focus and outcomes, and the educational stage, of the cohort for whom the training will apply.
 
 ## Context
 
-This exercise was used as the basis for a teamwork assessed exercise for first year students. The groups were drawn together with members from the different agriculture-nutrition degree schemes in the School of Biosciences, generally with 5-6 members.
+This exercise was used as the basis for a group assessed exercise for first year students. The groups were drawn together with members from the different agriculture-nutrition degree schemes in the School of Biosciences, generally with 5-6 members.
 
 In addition to their scientific understanding, this assessment included both teaching support for, and assessment criteria of, team-working and presentation skills; these are not included here. The assessment took place in the regular university exam period after all taught components of the course were complete.
 
@@ -15,59 +15,77 @@ In addition to their scientific understanding, this assessment included both tea
 Each group is presented with a unique nutrient – country combination available in the MAPS tool. This information was shared with students before the first in-person practical session.
 
 ::: callout-note
-## We use only countries with national-scale data. This balances having sufficient information for the learning objectives, whilst keeping the volume of data manageable for the course requirements.
+## We use only countries with national-scale data. This balances having sufficient information for our learning objectives, whilst keeping the volume of data manageable for the course requirements.
 :::
 
 ::: callout-note
 ## We prioritise nutrients with both large-scale food fortification and biofortification strategies that are reasonably well documented, as well as a dietary change option, in order to provide an equal academic opportunity to all the groups to find examples they can use.
 :::
 
-In undertaking this group exercise, students were encouraged to draw upon their own degree experience complementary to their team colleagues. This was in addition to the commonly taken taught (lecture) component of this course in “sustainable agriculture, food and nutrition”.
+In undertaking this group exercise, students were encouraged to draw upon their own degree experience complementary to their team colleagues. This was in addition to the common-to-all taught (lecture) component of this module in “sustainable agriculture, food and nutrition”.
+
+The taught practical component of this part of the module is described below. In order to complete this assignment, the assignment groups were expected to organise additional sessions to work together.
 
 ## Classroom teaching of the MAPS tool
 
-A computer lab was used to train the approximately 90 students in each cohort, either concurrently or asynchronously depending on room availability. The MAPS tool was designed to work efficiently on low-bandwidth systems, with the added benefit that performance was not compromised during the first hands-on session when all 90 students individually connected (at the University of Nottingham).
+A computer lab was used to train the approximately 90 students in each cohort, either concurrently or asynchronously depending on room availability and timetabling. The MAPS tool was designed to work efficiently on low-bandwidth systems, with the added benefit that performance was not compromised during the first hands-on session when all 90 students individually connected (at the University of Nottingham).
 
-The MAPS practical teaching was structured in two-hour blocks of contact time, as follows:
+The MAPS practical teaching was generally structured in three blocks lasting 90 to 120 minute of contact time, as follows:
 
 #### Session 1
 
-Background to the MAPS tool (lecture), with additional practical examples of biofortification and large scale fortification. Follow-along use of the MAPS tool (participatory), walking through examples in QuickMAPS and how to navigate and change selected country-nutrient options.  
+*Background to the MAPS tool, with additional practical examples of biofortification and large scale fortification interventions (lecture), followed by walk-through use of the MAPS tool (participatory).*
+
+This comprised, walking through selected examples in **QuickMAPS** <https://help.micronutrient.support/QuickMAPS.html>. The examples which they tackled were different to any of the country-nutrient combinations which had been preset as an assessment, to avoid a disproportionate benefit to any team(s). In this session the students were shown how to navigate and change selected country-nutrient options. This was followed by individually viewing and collectively discussing the information contained in QuickMAPS baseline and projection pages.
 
 #### Session 2
 
-Reinforcement participatory training using the MAPS tool “QuickMAPS” baseline and projection data. This was student led, with groups working in their assignment teams. The examples which they tackled were different to any of the country-nutrient combinations preset as an assessment. This provided opportunities to: work as a team; contribute to answering the classroom questions; asking academic staff for any clarifications; and, developing their food systems thinking for the countries they were looking at.
+*Reinforcement participatory sesssion using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting large-scale food fortification (LSFF) intervention opportunities.*
 
-Some of the introductory questions given in Session 3 were used for these group exercises.
+This session was organised with groups seated and working in their assignment teams. Pre-prepared country-nutrient examples from MAPS were discussed (reinforcement of Session 1), with students expected to need less support to navigate the MAPS tool and locate information.
+
+This was complemented by an introduction to the Global Fortification Data Exchange **GFDx** <https://fortificationdata.org/>, which presents data on large-scale food fortification for each country globally. MAPS uses input data from GFDx the cost-effectiveness calculations. Here we introduce the students to GFDx so they can consider fortification opportunities and challenges in the country - nutrient examples used in this session. Students were shown how to navigate the GFDx country dashboards so they could use in the information provided.
+
+Students were expected to integrate observations from the MAPS tool (baseline, projections) and GFDx to form narrative (not quantitative) LSFF intervention suggestions that fit with the nutrient in existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session.
+
+This session provided opportunities to: work as a team; contribute to answering the classroom questions; asking academic staff for any clarifications; and, developing their food systems thinking for the countries they were looking at.
 
 #### Session 3
 
-**Introduction to MAPS**
+*Reinforcement participatory session using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting biofortification intervention opportunities.*
 
-Learning how to use other online tools to support interpretation and realistic interventions to avert micronutrient deficiencies.  Starting with examples in MAPS and then drawing information from supporting information.
+This session was organised with groups seated and working in their assignment teams. Pre-prepared country-nutrient examples from MAPS were discussed (reinforcement of Session 1 and 2), with students expected to independently navigate the MAPS tool and locate information (whilst being able to ask for help if they needed it).
 
-1.  **Navigate to explore data for \<country\> and \<nutrient\> in MAPS in QuickMAPS Baseline pages:**
+This was complemented by an introduction to the Biofortification Priority Index (**BPI**) <https://bpi.harvestplus.org/about_using_bpi.html>, which presents prioritised data for nations, and documents biofortified crops. Here we introduce the students to BPI so they can consider biofortification opportunities and challenges in the country - nutrient examples used in this session. Students were shown how to navigate the BPI dashboards so they could use in the information provided.
 
-🔎 What differences might be experienced by populations *within* the country that are masked by the national-scale data? {*expecting an answer here that is high-level and thoughtful about within country variations that might be expected, even though these are not visible*).
+Students were expected to integrate observations from the MAPS tool (baseline, projections) and BPI to form narrative (not quantitative) biofortification intervention suggestions that fit with the nutrient in existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session. The student groups were also reminded of the similar approach used for LSFF in the previous session.
 
-✎ What might be the underlying cause(s) of these differences?
+#### Example discussion structures
 
-✎ Which foods are the primary source of this nutrient in this country?
+These are a selection of structured discussions used in the three sessions, in order to develop thinking around micronutrient deficiencies and feasible intervention options.
 
-✎ Are these foods all nutrient-dense for that nutrient (a “good source” of the nutrient), or is it because they are eaten in large quantities?
+1.  **Explore data for \<country\> and \<nutrient\> in MAPS in QuickMAPS Baseline pages:**
+
+🔎 What differences might be experienced by populations *within* the country that are masked by the national-scale data?
+
+🔎 What might be the underlying cause(s) of these differences?
+
+🔎 Which foods are the primary source of this nutrient in this country?
+
+🔎 Are these foods all nutrient-dense for that nutrient (a “good source” of the nutrient), or is it because they are eaten in large quantities?
 
 2.  ***Navigate to QuickMAPS projections for the same country and nutrient:***
 
-✎ Locate the main graph and discover the text explaining Shared Socioeconomic Pathways (SSP).
+🔎 Locate the main graph and discover the text explaining Shared Socioeconomic Pathways (SSP).
 
-✎ What is the expected trajectory for this country-nutrient through time?
+🔎 What is the expected trajectory for this country-nutrient through time?
 
-✎ Does this vary by SSP?
+🔎 Does this vary by SSP?
 
-✎ Will the nutrient deficiency vastly improve, or resolve, through time with no additional interventions?
+🔎 Will the nutrient deficiency vastly improve, or resolve, through time with no additional interventions?
 
-✎ Which food groups (the lower graph) contribute to any changes observed in the SSP1-3 trajectores for this nutrient?
+🔎 Which food groups (the lower graph) contribute to any changes observed in the SSP1-3 trajectores for this nutrient?
 
-✎ Will there be any differences likely to be experienced within the country population (as in ‘Baseline’ discussion point).
+🔎 Will there be any differences likely to be experienced within the country population (as in ‘Baseline’ discussion point).
 
-Discuss what interventions may be appropriate in this food system and why using an example from large-scale food fortification and one from biofortification.
+***Discuss what interventions may be appropriate in this food system and why using an example from large-scale food fortification and one from biofortification.***

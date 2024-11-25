@@ -20,6 +20,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - Teaching_undergraduate.qmd
     # - summary.qmd
     # - QuickMAPS.qmd
     # - QuickMAPS2_baseline.qmd
