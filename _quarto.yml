@@ -20,7 +20,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - Teaching_undergraduate.qmd
+    #- Teaching_undergraduate.qmd
     #- Teaching_postgraduate.qmd
     #- Training_QuickMAPS.qmd
     # - summary.qmd
