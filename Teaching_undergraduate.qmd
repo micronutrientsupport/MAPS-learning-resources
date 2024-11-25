@@ -26,7 +26,7 @@ In undertaking this group exercise, students were encouraged to draw upon their 
 
 The taught practical component of this part of the module is described below. In order to complete this assignment, the assignment groups were expected to organise additional sessions to work together.
 
-## Classroom teaching of the MAPS tool
+## Practical sessions
 
 A computer lab was used to train the approximately 90 students in each cohort, either concurrently or asynchronously depending on room availability and timetabling. The MAPS tool was designed to work efficiently on low-bandwidth systems, with the added benefit that performance was not compromised during the first hands-on session when all 90 students individually connected (at the University of Nottingham).
 
