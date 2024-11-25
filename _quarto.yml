@@ -19,10 +19,10 @@ book:
   
   chapters:
     - index.qmd
-    - intro.qmd
-   - Teaching_undergraduate.qmd
-    - Teaching_postgraduate.qmd
-    - Training_QuickMAPS.qmd
+ #   - intro.qmd
+ #  - Teaching_undergraduate.qmd
+ #   - Teaching_postgraduate.qmd
+ #   - Training_QuickMAPS.qmd
     # - summary.qmd
     # - QuickMAPS2_baseline.qmd
     # - QuickMAPS3_projections.qmd
