@@ -2,11 +2,11 @@
 
 The MAPS tool provides an opportunity to allow undergraduate students to develop their understanding of nutritious food systems, through exploring case studies. The example provided here has been used since 2022 in the School of Biosciences at the University of Nottingham. It is designed for a m first year undergraduate module, comprised of students drawn from across agriculture, agricultural economics, nutrition and dietetics degree schemes. The module lasts for a full academic year each year, with the assessment component developed in the second half of the year alongside continuing academic lectures.
 
-We recommend adapting the approach described here to suit the learning focus and outcomes, and the educational stage, of the cohort for whom the training will apply.
+We recommend adapting the approach described here to suit the learning focus and outcomes, the contact/learning time available in the module, and the educational stage, of the cohort for whom the training will apply.
 
 ## Context
 
-This exercise was used as the basis for a group assessed exercise for first year students. The groups were drawn together with members from the different agriculture-nutrition degree schemes in the School of Biosciences, generally with 5-6 members.
+This exercise was used as the basis for a group assessed exercise for first year undergraduate students. The groups were drawn together with members from the different agriculture-nutrition degree schemes in the School of Biosciences, University of Nottingham, generally with 5-6 members.
 
 In addition to their scientific understanding, this assessment included both teaching support for, and assessment criteria of, team-working and presentation skills; these are not included here. The assessment took place in the regular university exam period after all taught components of the course were complete.
 
@@ -32,13 +32,13 @@ A computer lab was used to train the approximately 90 students in each cohort, e
 
 The MAPS practical teaching was generally structured in three blocks lasting 90 to 120 minute of contact time, as follows:
 
-#### Session 1
+### Session 1
 
 *Background to the MAPS tool, with additional practical examples of biofortification and large scale fortification interventions (lecture), followed by walk-through use of the MAPS tool (participatory).*
 
 This comprised, walking through selected examples in **QuickMAPS** <https://help.micronutrient.support/QuickMAPS.html>. The examples which they tackled were different to any of the country-nutrient combinations which had been preset as an assessment, to avoid a disproportionate benefit to any team(s). In this session the students were shown how to navigate and change selected country-nutrient options. This was followed by individually viewing and collectively discussing the information contained in QuickMAPS baseline and projection pages.
 
-#### Session 2
+### Session 2
 
 *Reinforcement participatory sesssion using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting large-scale food fortification (LSFF) intervention opportunities.*
 
@@ -50,7 +50,7 @@ Students were expected to integrate observations from the MAPS tool (baseline, p
 
 This session provided opportunities to: work as a team; contribute to answering the classroom questions; asking academic staff for any clarifications; and, developing their food systems thinking for the countries they were looking at.
 
-#### Session 3
+### Session 3
 
 *Reinforcement participatory session using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting biofortification intervention opportunities.*
 
@@ -60,7 +60,7 @@ This was complemented by an introduction to the Biofortification Priority Index 
 
 Students were expected to integrate observations from the MAPS tool (baseline, projections) and BPI to form narrative (not quantitative) biofortification intervention suggestions that fit with the nutrient in existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session. The student groups were also reminded of the similar approach used for LSFF in the previous session.
 
-#### Example discussion structures
+### Example discussion structures
 
 These are a selection of structured discussions used in the three sessions, in order to develop thinking around micronutrient deficiencies and feasible intervention options.
 
