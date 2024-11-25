@@ -12,7 +12,7 @@ In addition to their scientific understanding, this assessment included both tea
 
 ## Setting the group exercise
 
-Each group is presented with a unique nutrient – country combination available in the MAPS tool. This information was shared with students before the first in-person practical session.
+Each group is presented with a unique *nutrient – country* combination available in the MAPS tool. This information was shared with students before the first in-person practical session.
 
 ::: {.callout-note style="color; blue"}
 ## We use only countries with national-scale data. This balances having sufficient information for our learning objectives, whilst keeping the volume of data manageable for the course requirements.

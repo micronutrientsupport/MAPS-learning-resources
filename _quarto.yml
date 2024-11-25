@@ -22,7 +22,7 @@ book:
     - intro.qmd
     - Teaching_undergraduate.qmd
     - Teaching_postgraduate.qmd
-    #- Training_QuickMAPS.qmd
+    - Training_QuickMAPS.qmd
     # - summary.qmd
     # - QuickMAPS2_baseline.qmd
     # - QuickMAPS3_projections.qmd
