@@ -76,7 +76,7 @@ These are a selection of structured discussions used in the three sessions, in o
 
 🔎 Are these foods all nutrient-dense for that nutrient (a “good source” of the nutrient), or is it because they are eaten in large quantities?
 
-2.  ***Navigate to QuickMAPS projections for the same country and nutrient:***
+2.  ***Navigate to QuickMAPS Projections for the same country and nutrient:***
 
 🔎 Locate the main graph and discover the text explaining Shared Socioeconomic Pathways (SSP).
 
@@ -84,7 +84,7 @@ These are a selection of structured discussions used in the three sessions, in o
 
 🔎 Does this vary by SSP?
 
-🔎 Will the nutrient deficiency vastly improve, or resolve, through time with no additional interventions?
+🔎 Is it expected that the nutrient deficiency will vastly improve, or resolve, through time with no additional interventions?
 
 🔎 Which food groups (the lower graph) contribute to any changes observed in the SSP1-3 trajectores for this nutrient?
 
