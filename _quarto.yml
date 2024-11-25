@@ -23,7 +23,7 @@ book:
     - Teaching_undergraduate.qmd
     - Teaching_postgraduate.qmd
     # - summary.qmd
-     - Training_QuickMAPS.qmd
+    - Training_QuickMAPS.qmd
     # - QuickMAPS2_baseline.qmd
     # - QuickMAPS3_projections.qmd
     # - QuickMAPS4_biomarkers.qmd

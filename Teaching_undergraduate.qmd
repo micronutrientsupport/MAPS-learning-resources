@@ -30,21 +30,21 @@ The taught practical component of this part of the module is described below. In
 
 A computer lab was used to train the approximately 90 students in each cohort, either concurrently or asynchronously depending on room availability and timetabling. The MAPS tool was designed to work efficiently on low-bandwidth systems, with the added benefit that performance was not compromised during the first hands-on session when all 90 students individually connected (at the University of Nottingham).
 
-The MAPS practical teaching was generally structured in three blocks lasting 90 to 120 minute of contact time, as follows:
+The MAPS practical teaching was generally structured in three blocks lasting 90 to 120 minutes of contact time, as follows:
 
 ### Session 1
 
-*Background to the MAPS tool, with additional practical examples of biofortification and large scale fortification interventions (lecture), followed by walk-through use of the MAPS tool (participatory).*
+*Background to the MAPS tool, with additional practical examples of biofortification and large-scale food fortification interventions (lecture), followed by walk-through use of the MAPS tool (participatory).*
 
 This comprised, walking through selected examples in **QuickMAPS** <https://help.micronutrient.support/QuickMAPS.html>. The examples which they tackled were different to any of the country-nutrient combinations which had been preset as an assessment, to avoid a disproportionate benefit to any team(s). In this session the students were shown how to navigate and change selected country-nutrient options. This was followed by individually viewing and collectively discussing the information contained in QuickMAPS baseline and projection pages.
 
 ### Session 2
 
-*Reinforcement participatory sesssion using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting large-scale food fortification (LSFF) intervention opportunities.*
+*Reinforcement participatory session using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting large-scale food fortification (LSFF) intervention opportunities.*
 
 This session was organised with groups seated and working in their assignment teams. Pre-prepared country-nutrient examples from MAPS were discussed (reinforcement of Session 1), with students expected to need less support to navigate the MAPS tool and locate information.
 
-This was complemented by an introduction to the Global Fortification Data Exchange **GFDx** <https://fortificationdata.org/>, which presents data on large-scale food fortification for each country globally. MAPS uses input data from GFDx the cost-effectiveness calculations. Here we introduce the students to GFDx so they can consider fortification opportunities and challenges in the country - nutrient examples used in this session. Students were shown how to navigate the GFDx country dashboards so they could use in the information provided.
+This was complemented by an introduction to the Global Fortification Data Exchange **GFDx** <https://fortificationdata.org/>, which presents data on large-scale food fortification for each country globally. MAPS uses input data from GFDx for the cost-effectiveness calculations. Here we introduce the students to GFDx so they can consider fortification opportunities and challenges in the country - nutrient examples used in this session. Students were shown how to navigate the GFDx country dashboards so they could use in the information provided.
 
 Students were expected to integrate observations from the MAPS tool (baseline, projections) and GFDx to form narrative (not quantitative) LSFF intervention suggestions that fit with the nutrient in existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session.
 
@@ -58,7 +58,7 @@ This session was organised with groups seated and working in their assignment te
 
 This was complemented by an introduction to the Biofortification Priority Index (**BPI**) <https://bpi.harvestplus.org/about_using_bpi.html>, which presents prioritised data for nations, and documents biofortified crops. Here we introduce the students to BPI so they can consider biofortification opportunities and challenges in the country - nutrient examples used in this session. Students were shown how to navigate the BPI dashboards so they could use in the information provided.
 
-Students were expected to integrate observations from the MAPS tool (baseline, projections) and BPI to form narrative (not quantitative) biofortification intervention suggestions that fit with the nutrient in existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session. The student groups were also reminded of the similar approach used for LSFF in the previous session.
+Students were expected to integrate observations from the MAPS tool (baseline, projections) and BPI to form narrative (not quantitative) biofortification intervention suggestions that fit with the chosen nutrient in the existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session. The student groups were also reminded of the similar approach used for LSFF in the previous session.
 
 ### Example discussion structures
 
