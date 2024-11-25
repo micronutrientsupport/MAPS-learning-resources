@@ -1,6 +1,6 @@
 # Using the MAPS tool in undergraduate teaching
 
-The MAPS tool provides an opportunity to allow undergraduate students to develop their understanding of nutritious food systems, through exploring case studies. The example provided here has been used since 2022 in the School of Biosciences at the University of Nottingham. It is designed for a m first year undergraduate module, comprised of students drawn from across agriculture, agricultural economics, nutrition and dietetics degree schemes. The module lasts for a full academic year each year, with the assessment component developed in the second half of the year alongside continuing academic lectures.
+The MAPS tool provides an opportunity to allow undergraduate students to develop their understanding of nutritious food systems, through exploring case studies. The example provided here has been used since 2022 in the School of Biosciences at the University of Nottingham, UK. It is designed for a m first year undergraduate module, comprised of students drawn from across agriculture, agricultural economics, nutrition and dietetics degree schemes. The module lasts for a full academic year each year, with the assessment component developed in the second half of the year alongside continuing academic lectures.
 
 We recommend adapting the approach described here to suit the learning focus and outcomes, the contact/learning time available in the module, and the educational stage, of the cohort for whom the training will apply.
 
