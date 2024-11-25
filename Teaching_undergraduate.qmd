@@ -66,6 +66,8 @@ These are a selection of structured discussions used in the three sessions, in o
 
 1.  **Explore data for \<country\> and \<nutrient\> in MAPS in QuickMAPS Baseline pages:**
 
+🔎 What is the nutrient availability, and how does this compared to the harmonised average requirement threshold ?
+
 🔎 What differences might be experienced by populations *within* the country that are masked by the national-scale data?
 
 🔎 What might be the underlying cause(s) of these differences?
