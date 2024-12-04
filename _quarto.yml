@@ -16,6 +16,8 @@ book:
   sidebar: 
     logo: images/MAPS_sticker_green.png  
     search: true
+  website:
+  favicon: MAPS_sticker_green.png
   
   chapters:
     - index.qmd
@@ -24,12 +26,8 @@ book:
     - Teaching_postgraduate.qmd
     - Training_QuickMAPS.qmd
     - Training_CostEffectiveness.qmd
+    - Training_R_language.qmd
     # - summary.qmd
-    # - QuickMAPS2_baseline.qmd
-    # - QuickMAPS3_projections.qmd
-    # - QuickMAPS4_biomarkers.qmd
-    # - CostEffectiveness.qmd
-    # - glossary.qmd
 #    - references.qmd
 
 bibliography: references.bib

@@ -1,3 +1,71 @@
-# Using the MAPS tool in postgraduate teaching
+# Using the MAPS tool in postgraduate Masters-level teaching
 
-This section is under development ![](images/WiP_purplespanner.svg)
+## Context
+
+·       This exercise was designed for students undertaking the MSc Nutrition for Global Health at the London School of Hygiene & Tropical Medicine <https://www.lshtm.ac.uk/study/courses/masters-degrees/nutrition-global-health>
+
+·       The MSc Nutrition for Global Health is an intensive, one-year taught course. The class size is typically 15-25 students.
+
+·       The exercise was integrated into a 3-hour lecture on ‘National and subnational dietary assessment’, which comes mid-way through the Term One module Fundamental Public Health Nutrition. The module introduces students to key information and concepts in public health nutrition, including different approaches to assessing the nutritional status of populations. Further information on the module can be found here: <https://www.lshtm.ac.uk/study/courses/modules/intensive-modules/module-specifications>
+
+## Learning objectives
+
+·       The lecture on ‘National and subnational dietary assessment’ has the following learning objectives:
+
+o   Compare and contrast different sources of food consumption data for micronutrient assessment
+
+o   Critically assess the use of food composition data tables for estimating micronutrient intake
+
+o   Explain how to combine food consumption and composition data to inform micronutrient programmes and policies
+
+·       The lecture introduces students to sources and types of dietary data that may be suitable for assessing nutritional status at national scales, including Food Balance Sheets and Household Consumption and Expenditure Surveys (HCES).
+
+·       The MAPS activity provides an ‘active learning’ approach to aid students’ learning and understanding of the links between food systems and dietary micronutrient supplies and deficiency risks, and the strengths and limitations of using HCES data to conduct such analyses and support subsequent programme/policy decisions.
+
+## Introducing HCES as a source of dietary information \[15 mins\]
+
+·       Students are introduced to HCES as a family of nationally representative, multicomponent economic surveys which provide data to characterize an array of socioeconomic conditions.
+
+·       The methods of collecting food consumption data within HCES are introduced, alongside the subsequent processing of these data to generate nutrition metrics, including integration of food composition data and conversion to adult male or adult female equivalents.
+
+·       The students are shown examples of spatial and seasonal variations in (a) millet and (b) mango consumption in Nigeria, with maps and plots created using offline MAPS analyses.
+
+·       This section concludes with a summary of strengths and limitations of HCES data.
+
+## Modeling the potential contributions of large-scale food fortification interventions in Malawi \[20 mins\]
+
+·       Students are presented with a case study use of HCES data, drawing on the following analysis: Tang K et al. (2021) Annals NYAS, 1508: 105-122. <https://doi.org/10.1111/nyas.14697>
+
+·       In this study, dietary vitamin A supplies were quantified and analysed to determine risks of deficiency in Malawi. Scenarios were run to determine the current contribution of food fortification towards addressing dietary vitamin A shortfalls, and to show the potential for further gains through improved industry compliance.
+
+·       Students are shown how the data can be disaggregated by key socioeconomic criteria (e.g. rural/urban residency, household wealth quintile, etc.) to reveal equity insights.
+
+·       The policy relevance of these findings are discussed, including the observation that food fortification is important for dietary vitamin A supplies, but the intervention does not adequately provide for poorer rural populations.
+
+·       The findings are compared and interpreted alongside summary findings from the 2015-16 national micronutrient biomarker survey
+
+## MAPS tool activity \[45 mins\]
+
+·       Students are provided with a brief walk-through of the Quick MAPS tool, looking at Food Systems data on vitamin A in Tanzania and Nigeria as examples.
+
+·       Students are shown the difference between Food Balance Sheet and HCES data sources.
+
+·       The class are then split into groups of 3-4 students each. Working in these groups, students use the QuickMAPS tool to answer the following questions:
+
+o   What is the median apparent intake of calcium in Malawi? Do you think the population is likely to be at risk of inadequate intake of calcium?
+
+o   Can you find one micronutrient whose intake is highly seasonal? Why might this be?
+
+o   What is the main food item that contributes to calcium intake in Malawi?
+
+o   What is the contribution of milk (all types) to calcium intake in Malawi?
+
+o   What can you say about subnational differences in calcium intakes? Comment on the distribution of apparent intakes (histogram)?
+
+o   Which food composition tables were used to derive this data, and what are the potential problems with that?
+
+·       Students are given approximately 20 minutes to conduct this activity, and the lecturer can walk round the classroom to check on progress and answer any clarifying questions from the students.
+
+·       Groups are then asked to feedback on their findings.
+
+·       The exercise concludes with a class discussion on the appropriate use of HCES data to generate insights on sub-national dietary micronutrient supplies, and inform the design, delivery and monitoring of nutrition interventions.

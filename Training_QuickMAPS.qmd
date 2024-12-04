@@ -1,3 +1,31 @@
-# Professional training in QuickMAPS
+# Professional training in MAPS
 
 This section is under development ![](images/WiP_purplespanner.svg)
+
+QuickMAPS and cost-effectiveness modelling training has been given in a number of learning sessions in openly-accessible conferences, as well as some MAPS-run workshops. The workshops have generally been aimed at those in national nutrition settings, or nutrition research. This document provides examples of the training content that we have built through these experiences. Our workshops/learning sessions have also provided us with iterative co-design, from trainee feedback in the virtual, or in-person, rooms.
+
+## MAPS learning sessions
+
+These sessions held within conferences have all been applied to under open calls for training/learning sessions. These are also listed under the 'Conferences' header on <https://micronutrient.support/publications>
+
+### Conference sessions
+
+**54th Annual General Meeting and Scientific Conference of the Nutrition Society of Nigeria** Kano, Nigeria <https://nutritionnigeria.org/kano-2024-loading/> 
+
+[Pre-Conference Workshop (learning session)]{.underline} [Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) tool](https://nutritionnigeria.org/wp-content/uploads/2024/09/Updated-Program-of-Events-KANO-2024.pdf) Samuel, Eyinla et al.  \
+
+**Agriculture, Nutrition and Health (ANH) ANH2024 Learning Labs** (Online) <https://www.anh-academy.org/academy-week/2024>   \
+[Learning Lab]{.underline} [Using the MAPS tool to model the cost and cost-effectiveness of food systems interventions: economic evaluations for non-economists](https://www.anh-academy.org/academy-week/2024/programme/learning-lab-using-the-maps-tool-to-model-the-cost-and-cost) Adams et al  \
+ 
+
+**Micronutrient Forum 2023** The Hague, The Netherlands <https://micronutrientforum.org/conferences/micronutrient-forum-6th-global-conference-for-nutrition-for-resilience/>  \
+[Learning Center]{.underline} [Micronutrient intervention cost modeling using the MAPS tool: an introduction for non-economists](https://cslide.ctimeetingtech.com/mnf23/attendee/confcal/show/session/32) Adams et al. \
+
+**8th Annual Agriculture, Nutrition and Health (ANH) Academy Week** 2023 Lilongwe, Malawi, <https://www.anh-academy.org/academy-week/2023> \
+[Learning Lab]{.underline} [Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) Tool](https://www.anh-academy.org/Academy-week/2023/programme/learning-lab-exploring-micronutrient-deficiencies-using-the-open-access) Tull, Millar et al.  \
+[Side Event]{.underline} [New resources for nutrition analysis using Household Consumption and Expenditure Survey data](https://www.anh-academy.org/Academy-week/2023/programme/side-event-new-resources-for-nutrition-analysis-using-household) Joy, Ander et al.  
+
+**Agriculture, Nutrition and Health (ANH) ANH2022** (Online) <https://www.anh-academy.org/academy-week/2022>  \
+[Side Event]{.underline} [LSMS for Nutrition – Learning Hub](https://www.anh-academy.org/anh-academy/academy-week/anh2022-online-south-africa/side-event-lsms-for-nutrition-learning-hub) Joy et al.  
+
+## Workshop training
