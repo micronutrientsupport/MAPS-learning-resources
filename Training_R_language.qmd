@@ -1,3 +1,5 @@
 # Introductory R language training
 
 This section is under development ![](images/WiP_purplespanner.svg)
+
+July 2022 **LUANAR training**. Lilongwe, Malawi. Osman, Segovia de la Revilla, Mlambo.

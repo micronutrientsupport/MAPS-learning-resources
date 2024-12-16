@@ -29,3 +29,5 @@ These sessions held within conferences have all been applied to under open calls
 [Side Event]{.underline} [LSMS for Nutrition – Learning Hub](https://www.anh-academy.org/anh-academy/academy-week/anh2022-online-south-africa/side-event-lsms-for-nutrition-learning-hub) Joy et al.  
 
 ## Workshop training
+
+**LeNNS Network training** Lilongwe, Malawi November 2023 Osman et al., see this [Insight](https://micronutrient.support/insights/data-science-tools-for-nutrition-data) for more details.
